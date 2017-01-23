@@ -1,2 +1,5 @@
 Utah: Snow
       30 degrees
+California: Rain
+            50 degrees
+Massachusetts: Snow
