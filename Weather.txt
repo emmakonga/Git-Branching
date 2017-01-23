@@ -1,2 +1,3 @@
 Utah: Snow
       30 degrees
+California: Rain
