@@ -22,3 +22,6 @@ Florida: Warm and humide
 Texas: Hot and dry 
 El Passo:Humidity-hat-wendy
 Washington:Cold and rain    
+Maine:Snow and storm
+Utah:Snow in Salt lake City 
+Chicago:Big storm in north
