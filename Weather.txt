@@ -9,4 +9,5 @@ Arizona: Clear
 		 It's too hot
 California2:Fire warning
 Washington:Rain
-Nevada:Dry		 
+Nevada:Dry
+       Cold in winter time		 
