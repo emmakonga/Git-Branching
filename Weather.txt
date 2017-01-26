@@ -10,5 +10,7 @@ Arizona: Clear
 California2:Fire warning
 Washington:Rain
 Nevada:Dry	
+       Cold in winter time
 Mississippi:Storm 
             Homes and cars destroyed
+Colorado:Snow		 
