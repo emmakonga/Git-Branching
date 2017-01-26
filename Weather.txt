@@ -4,3 +4,5 @@ California: Rain
             50 degrees
 Massachusetts: Snow
 	       25 degrees
+Arizona: Clear
+		 75 degrees
