@@ -18,5 +18,5 @@ Colorado:Snow
 Buffalo: Too cold 
 Rain in Massachusetts
 Maine: Snow and windy    
-California:Flood
-Michigan:3 feet snow      
+Florida: Warm and humide
+Texas: Hot and dry     
