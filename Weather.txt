@@ -25,3 +25,5 @@ Washington:Cold and rain
 Maine:Snow and storm
 Utah:Snow in Salt lake City 
 Chicago:Big storm in north
+Columbus Ohio:Cold and wendy
+California:Flood,flood,flood    
