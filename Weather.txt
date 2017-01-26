@@ -16,4 +16,5 @@ Mississippi:Storm
             Homes and cars destroyed
 Colorado:Snow		 
 Buffalo: Too cold  
-Florida: Warm and humide     
+Florida: Warm and humide
+Texas: Hot and dry     
