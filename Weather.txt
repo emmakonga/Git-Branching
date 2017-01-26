@@ -15,4 +15,5 @@ Nevada:Dry
 Mississippi:Storm 
             Homes and cars destroyed
 Colorado:Snow		 
-Buffalo: Too cold       
+Buffalo: Too cold  
+Florida: Warm and humide     
