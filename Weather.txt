@@ -11,3 +11,4 @@ California2:Fire warning
 Washington:Rain
 Nevada:Dry	
 Mississippi:Storm 
+            Homes and cars destroyed
