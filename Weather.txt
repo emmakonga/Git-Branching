@@ -15,4 +15,6 @@ Nevada:Dry
 Mississippi:Storm 
             Homes and cars destroyed
 Colorado:Snow		 
-Buffalo: Too cold       
+Buffalo: Too cold 
+Rain in Massachusetts
+Maine: Snow and windy    
