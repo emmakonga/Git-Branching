@@ -20,4 +20,5 @@ Rain in Massachusetts
 Maine: Snow and windy    
 Florida: Warm and humide
 Texas: Hot and dry 
-Columbus Ohio:Cold and wendy    
+Columbus Ohio:Cold and wendy
+California:Flood,flood,flood    
