@@ -16,4 +16,5 @@ Mississippi:Storm
             Homes and cars destroyed
 Colorado:Snow		 
 Buffalo: Too cold 
-Rain in Massachusetts     
+Rain in Massachusetts
+Maine: Snow and windy    
