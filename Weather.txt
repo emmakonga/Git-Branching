@@ -20,3 +20,4 @@ Rain in Massachusetts
 Maine: Snow and windy    
 Florida: Warm and humide
 Texas: Hot and dry     
+Maine:Snow and storm
