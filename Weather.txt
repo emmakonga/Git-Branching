@@ -19,4 +19,6 @@ Buffalo: Too cold
 Rain in Massachusetts
 Maine: Snow and windy    
 Florida: Warm and humide
-Texas: Hot and dry     
+Texas: Hot and dry 
+El Passo:Humidity-hat-wendy
+Washington:Cold and rain    
