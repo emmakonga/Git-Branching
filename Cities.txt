@@ -16,3 +16,4 @@ Albany
 Columbus Ohio
 Cleveland Ohio
 Seattle
+Miami
