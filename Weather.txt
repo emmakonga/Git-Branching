@@ -11,6 +11,8 @@ California2:Fire warning
 Washington:Rain
 Nevada:Dry	
        Cold in winter time
+       Hot in Las Vegas
 Mississippi:Storm 
             Homes and cars destroyed
 Colorado:Snow		 
+Buffalo: Too cold       
