@@ -20,4 +20,5 @@ Rain in Massachusetts
 Maine: Snow and windy    
 Florida: Warm and humide
 Texas: Hot and dry 
-El Passo:Humidity-hat-wendy    
+El Passo:Humidity-hat-wendy
+Washington:Cold and rain    
