@@ -8,4 +8,5 @@ Arizona: Clear
 		 75 degrees
 		 It's too hot
 California2:Fire warning
-Washington:Rain		 
+Washington:Rain
+Nevada:Dry		 
