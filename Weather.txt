@@ -22,3 +22,4 @@ Florida: Warm and humide
 Texas: Hot and dry     
 Maine:Snow and storm
 Utah:Snow in Salt lake City 
+Chicago:Big storm in north
