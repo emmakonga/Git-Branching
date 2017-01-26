@@ -16,4 +16,5 @@ Mississippi:Storm
             Homes and cars destroyed
 Colorado:Snow		 
 Buffalo: Too cold 
-California:Flood      
+California:Flood
+Michigan:3 feet snow      
