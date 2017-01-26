@@ -10,4 +10,5 @@ Arizona: Clear
 California2:Fire warning
 Washington:Rain
 Nevada:Dry
-       Cold in winter time		 
+       Cold in winter time
+Colorado:Snow		 
