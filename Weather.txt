@@ -11,3 +11,4 @@ California2:Fire warning
 Washington:Rain
 Nevada:Dry		 
        Hot in Las Vegas
+Buffalo: Too cold       
