@@ -7,4 +7,5 @@ Massachusetts: Snow
 Arizona: Clear
 		 75 degrees
 		 It's too hot
-California2:Fire warning		 
+California2:Fire warning
+Washington:Rain		 
