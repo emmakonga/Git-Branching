@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Math_Operators.unity
+  isLoaded: 1
+  isActive: 1
