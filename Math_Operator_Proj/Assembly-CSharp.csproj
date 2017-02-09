@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\If_Else_Statements.cs" />
      <Compile Include="Assets\MathOperators.cs" />
      <Compile Include="Assets\Substration.cs" />
  <Reference Include="UnityEngine.UI">
