@@ -8,6 +8,9 @@ public class If_Else_Statements : MonoBehaviour {
 	int apples = 40;
 	int students = 20;
 	int oranges = 0;
+    public int a = 10;
+	public int b = 20;
+	public int trafficLight = 3;
 
 	// Use this for initialization
 	void Start () {
@@ -20,8 +23,30 @@ public class If_Else_Statements : MonoBehaviour {
 		lives = 5;
 		//and prints my lives
 		print ("You have " + lives + " lives left");
+		//comparaison
+		if (b > a) {
+			print ("B is greater than A");
+		} else if (a > b) {
+			print ("A is greater than B");
+		
+			
+		} else {
+			print ("A is equal to B");
+		}
 
-
+		//Traffic Light
+		if (trafficLight == 1) {
+			print ("Red");	
+		} 
+		else if(trafficLight == 2)
+		{
+			print ("Yellow");
+		}
+		else(trafficLight == 3)
+		{
+			print("Green");	
+		}
+			
 
 
 		students = 20;
