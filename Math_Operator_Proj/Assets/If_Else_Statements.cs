@@ -8,35 +8,53 @@ public class If_Else_Statements : MonoBehaviour {
 	int apples = 40;
 	int students = 20;
 	int oranges = 0;
+    int a = 5;
     public int a = 10;
 	public int b = 20;
 	public int trafficLight = 3;
+    public int speedLimit = 60;
 
-	// Use this for initialization
-	void Start () {
-		
 
-		print ("Oranges: " + oranges);
-		print ("Apples: " + apples);
+    // Use this for initialization
+    void Start() {
 
-		//Sets my lives to 5 at start of game 
-		lives = 5;
-		//and prints my lives
-		print ("You have " + lives + " lives left");
-		//comparaison
-		if (b > a) {
-			print ("B is greater than A");
-		} else if (a > b) {
-			print ("A is greater than B");
-		
-			
-		} else {
-			print ("A is equal to B");
-		}
 
-		//Traffic Light
+        print("Oranges: " + oranges);
+        print("Apples: " + apples);
+
+        //Sets my lives to 5 at start of game 
+        lives = 5;
+        //and prints my lives
+        print("You have " + lives + " lives left");
+        //comparaison
+        if (b > a) {
+            print("B is greater than A");
+        } else if (a > b) {
+            print("A is greater than B");
+
+
+        } else {
+            print("A is equal to B");
+        }
+
+        //Something else
+        if (a == 5) {
+        }
+        print("Do something");
+        }
+        else if (a == 4)
+        {
+        print("Do something else");
+        }
+        else(a > 3)
+        {
+        print("Do other stuff); 
+
+
+        //Traffic Light
 		if (trafficLight == 1) {
-			print ("Red");	
+
+            print ("Red");	
 		} 
 		else if(trafficLight == 2)
 		{
@@ -46,10 +64,23 @@ public class If_Else_Statements : MonoBehaviour {
 		{
 			print("Green");	
 		}
-			
 
+        //Speed Limit
+        if (CurrentSpeed < 60) {
+        }
+            print("You are driving slow");
+        {
 
-		students = 20;
+        else if (CurrentSpeed > 60)
+
+        }
+        print("You are driving too fast");
+        { 
+        else (CurrentSpeed == 60)
+        }
+        print("You are safe");
+
+	
 	}
 	
 	// Update is called once per frame
@@ -73,8 +104,8 @@ public class If_Else_Statements : MonoBehaviour {
 		{
 			bullets--;
 		}
-
-		if (students > 10) {
+        students = 20;
+        if (students > 10) {
 			print ("The class is too full");
 		} 
 		else {
