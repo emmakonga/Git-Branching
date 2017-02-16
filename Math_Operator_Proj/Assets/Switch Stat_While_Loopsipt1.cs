@@ -4,16 +4,16 @@ using System.Collections;
 public class SwitchStat_While_Loopsipt1 : MonoBehaviour {
 	
 	// First Switch example{
-	}
+	string	grade = 'A';
 	
 	void Start (string[]args)
 	
 	{
 	/*School's grade*/
-		grade = 'A';
+	
 
 	switch(grade)
-	}
+
 
 	case 'A':
 	print("Excellent");
@@ -39,7 +39,7 @@ public class SwitchStat_While_Loopsipt1 : MonoBehaviour {
 	
 print("Your grade is {0}", grade);
 
-
+}
 	// Update is called once per frame
 	void Update () {
 	

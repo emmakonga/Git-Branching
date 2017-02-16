@@ -8,12 +8,12 @@ public class If_Else_Statements : MonoBehaviour {
 	int apples = 40;
 	int students = 20;
 	int oranges = 0;
-    int a = 5;
+    int c = 5;
     public int a = 10;
 	public int b = 20;
 	public int trafficLight = 3;
     public int speedLimit = 60;
-
+	int currentSpeed;
 
     // Use this for initialization
     void Start() {
@@ -38,18 +38,20 @@ public class If_Else_Statements : MonoBehaviour {
         }
 
         //Something else
-        if (a == 5) {
-        }
-        print("Do something");
-        }
+		if (a == 5)
+		{
+        
+			print ("Do something");
+		}
+        
         else if (a == 4)
         {
         print("Do something else");
         }
-        else(a > 3)
+		else if (a > 3)
         {
-        print("Do other stuff); 
-
+        print("Do other stuff"); 
+		}
 
         //Traffic Light
 		if (trafficLight == 1) {
@@ -60,28 +62,32 @@ public class If_Else_Statements : MonoBehaviour {
 		{
 			print ("Yellow");
 		}
-		else(trafficLight == 3)
+		else if(trafficLight == 3)
 		{
 			print("Green");	
 		}
 
         //Speed Limit
-        if (CurrentSpeed < 60) {
-        }
-            print("You are driving slow");
-        {
+        if (currentSpeed < 60) {
+				print("You are driving slow");
+			
+			}
+            
+       
 
-        else if (CurrentSpeed > 60)
-
+		else if (currentSpeed > 60) {
+				print("You are driving too fast");
         }
-        print("You are driving too fast");
-        { 
-        else (CurrentSpeed == 60)
+        
+        
+		else if(currentSpeed == 60){ 
+				print("You are safe");
         }
-        print("You are safe");
+       
 
 	
 	}
+
 	
 	// Update is called once per frame
 	void Update () {
