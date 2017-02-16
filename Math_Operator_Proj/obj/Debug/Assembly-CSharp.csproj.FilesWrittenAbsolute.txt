@@ -1,0 +1,14 @@
+/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Temp/bin/Debug/UnityEngine.dll
+/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Temp/bin/Debug/UnityEditor.dll
+/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Temp/bin/Debug/Mono.Cecil.dll
+/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Temp/bin/Debug/Unity.DataContract.dll
+/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Temp/bin/Debug/Mono.Cecil.Mdb.dll
