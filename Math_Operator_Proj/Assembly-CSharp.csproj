@@ -50,6 +50,7 @@
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\Substration.cs" />
      <Compile Include="Assets\Switch Stat_While_Loopsipt1.cs" />
+     <Compile Include="Assets\Switch_While_Script.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

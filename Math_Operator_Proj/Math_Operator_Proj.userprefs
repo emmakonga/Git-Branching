@@ -1,13 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/If_Else_Statements.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Switch_While_Script.cs">
     <Files>
-      <File FileName="Assets/MathOperators.cs" Line="1" Column="1" />
-      <File FileName="Assets/If_Else_Statements.cs" Line="83" Column="40" />
+      <File FileName="Assets/Switch Stat_While_Loopsipt1.cs" Line="46" Column="2" />
+      <File FileName="Assets/Switch_While_Script.cs" Line="122" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/dgmstudent/Git-Branching/Math_Operator_Proj/Assets/Switch_While_Script.cs" line="104" column="32" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
