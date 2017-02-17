@@ -118,9 +118,7 @@ public class Switch_While_Script : MonoBehaviour {
 		}
 		// Fifth Switch example
 
-		switch ()
-		{
-		}
+
 	}
 	// Update is called once per frame
 	void Update () {
